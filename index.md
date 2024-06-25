@@ -7,4 +7,4 @@ layout: home
 ## Computer Science Academy 
 ## shyam_pb@berkeley.edu
 
-![Shyam's Snap Program]()
+![Shyam's Snap Program](car-image.avif)
